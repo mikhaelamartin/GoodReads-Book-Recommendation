@@ -32,10 +32,13 @@ Website
 
 ### Images
 
-![Popularity-Based Filtering Suggestions](C:/Users/m2mar/Desktop/Post College/Book Recommendation/notebooks/popularity_based_hist.png)
-![alt text](notebooks/popularity_based_hist.png "Title")
+**Popularity-Based Filtering Suggestions**
 
-![Most Common Words in Descriptions. Used for Content-Based Filtering](C:/Users/m2mar/Desktop/Post College/Book Recommendation/notebooks/content_based_wordcloud.png)
+![](notebooks/popularity_based_hist.png "Title")
+
+**Most Common Words in Descriptions. Used for Content-Based Filtering**
+
+![](notebooks/content_based_wordcloud.png "Title")
 
 ### Limitations & Next Steps
 I would want to add more context to the book recommendations such as their description, lead actors/actresses, and their genre.
