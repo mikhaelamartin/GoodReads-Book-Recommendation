@@ -19,8 +19,6 @@ We will be exploring three recommendation techniques that top companies such as 
 
     This method is based on the belief that people like things that are similar to what they already like and things that people who are similar to them also like. There are a couple types of collaborative filtering and methods to go about implementing it, but we will delve into it later on.
 
-Website
-
 ### Data
 [GoodReads-10K](https://www.kaggle.com/zygmunt/goodbooks-10k)
 
@@ -30,21 +28,17 @@ Website
 2. Content-Based Filtering: TFIDFVectorizor, Cosine Similarity, Cosine Distance
 3. Collaborative Filtering: KNearest Neighbors, Matrix Factorization (SVD)
 
-### Images
+#### The Harry Potter Series are the Most Popular Books
 
-** The Harry Potter Series are the Most Popular Books ** 
 Popularity-Based Filtering Suggestions
 
 ![](notebooks/popularity_based_hist.png "Title")
 
-** People Tag Books They Read and Liked **
+#### People Tag Books They Read and Liked
+
 Most Common Words in Descriptions. Used for Content-Based Filtering
 
 ![](notebooks/content_based_wordcloud.png "Title")
-
-### Limitations & Next Steps
-I would want to add more context to the book recommendations such as their description, lead actors/actresses, and their genre.
-Currently, the website doesn't support Collaborative Filtering suggestions. In order to implement this solution, I would allow users to create their own profile and rate books they have already read to suggest books liked by other users.
 
 ### For further information
 Visit my personal website! 
