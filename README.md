@@ -32,11 +32,13 @@ Website
 
 ### Images
 
-**Popularity-Based Filtering Suggestions**
+** The Harry Potter Series are the Most Popular Books ** 
+Popularity-Based Filtering Suggestions
 
 ![](notebooks/popularity_based_hist.png "Title")
 
-**Most Common Words in Descriptions. Used for Content-Based Filtering**
+** People Tag Books They Read and Liked **
+Most Common Words in Descriptions. Used for Content-Based Filtering
 
 ![](notebooks/content_based_wordcloud.png "Title")
 
@@ -46,9 +48,7 @@ Currently, the website doesn't support Collaborative Filtering suggestions. In o
 
 ### For further information
 Visit my personal website! 
-Look at my other projects!
-
-## Repository Structure
-
+https://mikhaela-martin-blogs.ghost.io/ghost/#/dashboard
+View my other projects!
 
 
